@@ -1,0 +1,13 @@
+Notes from Session 2
+
+Visualization #1: US Gun Killings in 2018
+- We can see the number of people killed in US in the year 2018. 
+- We can also see at what age each person was killed and how old they could have lived up to --> how many years were lost.
+- This visualization is factual, but still biased, given the stolen years are predicted, and there is an emphasis on a sense of loss.
+- It can be argued that this visualization supports the need for more gun control, which may not align with some people's views.
+
+Visualization #2: Washington Post Active Shooters
+- We can see the number of active shooter incidents each year starting from 2000 to 2015.
+- We can also decipher from the graph in which year we had the most active shooters --> 2010.
+- This visualization is more neutral than the first, but still biased as visualizations are never completely unbiased. News outlets like the Washington Post always have their own agenda for their articles, and this graph was likely used to make their point about something.
+
